@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shehjad-Ishan
+- 👋 Hi, I’m @Kazi Shehjad Islam
 - 👀 I’m interested in AI and AgTech
 - 🌱 I’m currently learning AI and AgTech
 - 💞️ I’m looking to collaborate on ML and AgTech projects
