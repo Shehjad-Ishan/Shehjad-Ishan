@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kazi Shehjad Islam
-- 👀 I’m interested in AI and AgTech
-- 🌱 I’m currently learning AI and AgTech
-- 💞️ I’m looking to collaborate on ML and AgTech projects
+- 👀 I’m interested in Machine Learning 
+- 🌱 I’m currently learning the of machine learning in City traffic objects
+- 💞️ I’m looking to collaborate on ML and DL projects
 - 📫 How to reach me shehjadishan211@gmail.com
 
 <!---
